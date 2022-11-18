@@ -1,0 +1,21 @@
+{
+  "name": "cypress-nauka",
+  "version": "1.0.0",
+  "description": "testy cypress automaty",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "nauka",
+    "cypress"
+  ],
+  "author": "Marcin",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.7.2"
+  }
+}
