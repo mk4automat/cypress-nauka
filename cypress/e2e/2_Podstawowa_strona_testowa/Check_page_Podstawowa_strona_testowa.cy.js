@@ -11,7 +11,7 @@ describe('Check page Podstawowa strona testowa', () => {
     it('Should check page', () => {
 
         // //Nagłówek - dodanie polecenia i sprawdzenie tła po najechaniu 
-        // cy.get('h1')
+        // cy.get('h1') 
         //     .realHover()
         //     .should('have.css', 'background-color', 'rgb(255, 255, 0)')
 
